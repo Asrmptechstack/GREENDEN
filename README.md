@@ -1,2 +1,0 @@
-# GREENDEN
-Tailwind css
